@@ -1,1 +1,0 @@
-Simulador 3D com LiDAR 3D – versão clássica Three.js
