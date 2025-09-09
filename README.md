@@ -1,0 +1,1 @@
+Simulador 3D robusto com fallbacks de CDN.
